@@ -27,3 +27,5 @@ Create a git hub repo name it same as you local repo
 git remote add origin git@github.com:harisree06/intro_to_gitHub.git #get it from your newly created git hub repo
 
 git push -u origin master
+
+git clone- copying a repo from github and bringing it to your local machine
